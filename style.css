@@ -5,8 +5,14 @@
   font-style: normal;
 }
 
+/* header bg-image */
+.header{
+    background: url(Assets/Hero-bg.png);
+    width: 1440px;
+    height:700px;
+}
 .navbar{
-    width:1140px ;
+    width:80% ;
     height: 150px;
     display: flex;
     justify-content: space-between;
@@ -29,6 +35,7 @@
     padding: 12px 36px;
     border-radius: 10px;
     border: 1px solid #4E47FF ;
+    transition-delay:.1s;
 }
 
 .btn-one:hover{
@@ -36,4 +43,17 @@
     color: #4E47FF;
     /* transition-delay: 1s;
      */
+}
+
+/* banner section */
+.banner{
+    width: 900px;
+    height: 240px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 70px;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: bold;
 }
