@@ -132,3 +132,79 @@ body{
     font-size: 20px;
     color: #8c8ba2;
 }
+
+/* review section */
+
+.feedback{
+    width: 1140px;
+    height: 350px;
+    margin: auto;
+    margin-top: 150px;
+    
+}
+.re-big-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+}
+
+.review{
+    display: flex;
+    justify-content: space-between;
+    margin:0px auto;
+}
+.reviewid{
+    width: 350px;
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 22px ;
+}
+
+.imgstar{
+    background-image: url(Assets/icon-star.png);
+    width: 100px;
+    height:20px;
+    background-repeat: repeat-x;
+    background-size:  20px 20px;
+    margin: 20px 0px;
+}
+
+.reviewtile{
+    color: #1E1E1E;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.reviewsub-title{
+    font: 16px;
+    color: #8c8ba2;
+    padding-top: 20px;
+}
+
+.review-flex{
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+
+    gap: 22px;
+
+}
+.img-profile img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.review-name h3{
+    margin-top: 30px;
+    font-size: 22px;
+    color:#252432;
+    line-height:.1;
+
+}
+.review-name p{
+    color:#8c8ba2 ;
+}
+
