@@ -88,3 +88,47 @@ body{
 .rightside img{
     border-radius: 45px;
 }
+
+/* productive section */
+
+.productive{
+    width: 1140px;
+    height: 300px;
+    background-color:#e5e7ff ;
+    margin: 0px auto;
+    border-radius:25px ;
+    margin-top: 50px;
+
+}
+
+.produc-title{
+    
+ text-align: center;
+ justify-content: center;
+ padding-top: 50px ;
+ 
+ 
+} 
+
+.productive-date{
+    display: flex;
+    margin: 0px auto;
+    justify-content:center;
+    gap: 200px;
+    line-height:.1;
+}
+.produc-title h3{
+    font-size: 40px;
+    font-weight: bold;
+    margin: auto;
+
+}
+.protitle{
+    font-size: 80px ;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.pro-subtitle{
+    font-size: 20px;
+    color: #8c8ba2;
+}
