@@ -302,3 +302,45 @@ padding-top: 55px;
     transition-delay:.1s;
     margin-right: 50px;
 }
+
+.footer{
+    width:530px ;
+    height: 220px;
+    align-items: center;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.footer-links ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin: 0px auto;
+    align-items: center;
+    
+    
+}
+footer{
+    width: 100%;
+    height: 430px;
+    padding-top: 100px;
+    background-color: white;
+}
+.footer-logo{
+    font-size: 16px;
+    color: #8c8ba2;
+}
+
+.footer-links a{
+    color: #252432;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+.footer-links a:hover{
+    color: #0800e8;
+}
+
+
