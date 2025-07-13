@@ -302,6 +302,10 @@ padding-top: 55px;
     transition-delay:.1s;
     margin-right: 50px;
 }
+.getintouch-btn:hover{
+    background-color:white ;
+    color: #4E47FF;
+}
 
 .footer{
     width:530px ;
