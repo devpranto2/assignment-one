@@ -237,3 +237,68 @@ padding-top: 55px;
     margin-top: 45px;
 
 }
+
+/* get in touch section */
+.getintouch{
+    width: 1140px;
+    height: 630px;
+    align-items: center;
+    margin: auto;
+   
+
+}
+
+.touch-both{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+
+}
+
+.touch-left h2{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+}
+.touch-left{
+    width:530px ;
+    height:230px ;
+}
+
+.touch-deco{
+    width: 100%;
+    font-size: 20px;
+    color: #8c8ba2;
+    padding: 10px 25px;
+    border: 1px solid rgb(210, 205, 205);
+    border-radius: 10px;
+    background-color: white;
+    line-height: 150%;
+    
+}
+.touch-right{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+.touch-right label{
+    font-size: 18px;
+    font-weight:500;
+    font-weight:600;
+}
+.getintouch-btn{
+    width: 550px;
+    background-color: #4E47FF;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px 66px;
+    border-radius: 10px;
+    border: 1px solid #4E47FF ;
+    transition-delay:.1s;
+    margin-right: 50px;
+}
