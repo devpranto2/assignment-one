@@ -208,3 +208,32 @@ body{
     color:#8c8ba2 ;
 }
 
+/* ready to focus better */
+
+.focus{
+    width: 1140px;
+    height: 700px;
+    border-radius: 15px;
+    margin: 0px auto;
+    background-color: white;
+}
+
+.focus-content{
+    text-align: center;
+    /* margin: 150px 70px ; */
+}
+.focus-content h2{
+  color: #080808;
+  font-size: 50px;
+  font-weight: bold;
+padding-top: 55px;
+}
+.focus-content{
+    font-size: 16px;
+    color: #8c8ba2;
+}
+.focus-img{
+    border-radius: 50px;
+    margin-top: 45px;
+
+}
